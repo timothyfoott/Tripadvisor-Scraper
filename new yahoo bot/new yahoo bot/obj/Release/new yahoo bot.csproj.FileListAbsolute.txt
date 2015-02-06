@@ -1,0 +1,4 @@
+D:\my_project\new yahoo bot\new yahoo bot\obj\Release\ResolveAssemblyReference.cache
+D:\my_project\new yahoo bot\new yahoo bot\obj\Release\new_yahoo_bot.Form1.resources
+D:\my_project\new yahoo bot\new yahoo bot\obj\Release\new_yahoo_bot.Properties.Resources.resources
+D:\my_project\new yahoo bot\new yahoo bot\obj\Release\new yahoo bot.csproj.GenerateResource.Cache
