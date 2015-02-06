@@ -1,1 +1,1 @@
-# Tripadvisor-Scraper
+Tripadvisor Scraper effective tool which can help you to extract all information about hotel reviews, photos, travel advice for hotels and holidays, this is a free version of Tripadvisor Scraper. To get the commercial version, please visit:  http://www.botguruz.com/tripadvisor-scraper
